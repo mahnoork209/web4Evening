@@ -1,6 +1,0 @@
-Song 1=Pasoori
-Song 2=Aabroo OST
-Song 3=Galt Fehmi
-Song 4=Rafta Rafta 
-Song 5=Pehli Dafa
-Song 6=Yeh tony kya kia
